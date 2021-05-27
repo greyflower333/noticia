@@ -1,0 +1,38 @@
+*{
+    margin:0px;
+}
+
+main{
+    width:80%;
+    margin:0 auto;
+}
+
+p{
+    margin-top:10px;
+}
+
+h1{
+    text-align:center;
+    color:#222;
+    font-size:36px;
+}
+
+#resumo{
+    color:#444;
+    font-size:32px;
+}
+
+#imagem{
+    width:80%;
+    margin:0 auto;
+}
+
+#imagem img{
+    width:100%;
+}
+
+.conteudo{
+    font-size:26px;
+    color:#444;
+}
+
